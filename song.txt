@@ -12,3 +12,11 @@ add some strings
 2 string and one more
 3 string
 
+=================================
+
+добавляем куплет в ветке feature
+1 string
+2 string and one more
+3 string
+
+
