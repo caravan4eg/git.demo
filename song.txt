@@ -1,3 +1,4 @@
+I =================================
 1 string
 2 string and one more
 3 string
@@ -5,14 +6,15 @@
 add some strings
 7 string
 8 string
-=================================
+
+II =================================
 
 добавляем куплет в ветке feature
 1 string
 2 string and one more
 3 string
 
-=================================
+III =================================
 
 добавляем куплет в ветке feature
 1 string
