@@ -6,3 +6,9 @@ add some strings
 7 string
 8 string
 =================================
+
+добавляем куплет в ветке feature
+1 string
+2 string and one more
+3 string
+
